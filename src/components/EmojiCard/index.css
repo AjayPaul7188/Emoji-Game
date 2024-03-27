@@ -1,0 +1,23 @@
+/* Write your code here. */
+
+.each-emoji {
+  list-style-type: none;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.emoji-btn {
+  border: 2px solid #ffffff30;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  outline: none;
+  background-color: #ffffff33;
+  padding: 15px;
+}
+
+.emoji-img {
+  opacity: 1;
+}

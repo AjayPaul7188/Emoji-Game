@@ -1,0 +1,44 @@
+/* Write your code here. */
+
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+  width: 70vw;
+  background-color: #ffffff33;
+}
+
+.logo-cont {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 20px;
+  width: 20px;
+}
+
+.head1 {
+  font-family: roboto;
+  font-size: 15px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.no-show {
+  display: none;
+}
+
+.show {
+  display: flex;
+  align-items: center;
+}
+
+.score-head {
+  font-family: roboto;
+  font-size: 15px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-right: 10px;
+}
